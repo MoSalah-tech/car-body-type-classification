@@ -2,8 +2,7 @@
 
 A ResNet50 image classifier that predicts a car's body type from a photo. Trained on 8,144 images across 9 body type classes, fine-tuned from ImageNet weights on a Google Colab T4 GPU.
 
-**🔗 [Live Demo on Hugging Face Spaces](https://huggingface.co/spaces/Mosalah89/stanford-car-body-classifier)**
-
+**🔗 [Live Demo on Hugging Face Spaces](https://huggingface.co/spaces/Mosalah89/car_body_type)**
 ---
 
 ## Results
