@@ -1,0 +1,9 @@
+.venv 
+best_model.pth
+*.pth
+*.pt
+.ipynb_checkpoints/
+pycache/
+*.pyc
+data/
+*.zip
