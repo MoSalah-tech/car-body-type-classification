@@ -1,9 +1,9 @@
 .venv 
-best_model.pth
 *.pth
 *.pt
 .ipynb_checkpoints/
-pycache/
+__pycache__/
 *.pyc
 data/
 *.zip
+mlruns/
